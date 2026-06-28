@@ -1,0 +1,33 @@
+{
+  "name": "proyecto-final-jmp",
+  "version": "1.0.0",
+  "description": "API Rest para administración de productos para proyecto final",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "USE_FIREBASE=true node index.js",
+    "start:json": "USE_FIREBASE=false node index.js",
+    "dev": "nodemon index.js",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest --runInBand --detectOpenHandles --forceExit",
+    "test:watch": "NODE_OPTIONS=--experimental-vm-modules jest --watch --detectOpenHandles --forceExit",
+    "test:coverage": "NODE_OPTIONS=--experimental-vm-modules jest --coverage --detectOpenHandles --forceExit",
+    "test:app": "NODE_OPTIONS=--experimental-vm-modules npx jest __tests__/app.test.js --detectOpenHandles --forceExit",
+    "test:auth": "NODE_OPTIONS=--experimental-vm-modules npx jest __tests__/auth.test.js --detectOpenHandles --forceExit",
+    "test:products": "NODE_OPTIONS=--experimental-vm-modules npx jest __tests__/product.test.js --detectOpenHandles --forceExit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "firebase": "^12.15.0",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "devDependencies": {
+  "jest": "^30.4.2",
+  "nodemon": "^3.1.14",
+  "supertest": "^7.2.2"
+  }
+}

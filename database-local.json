@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Somari",
+      "short_title": "Somari",
+      "description": "Juego pirata legendario del Family Game en el cual se puede jugar con Mario en los niveles de sonic en el clónico taiwanés del Famicom",
+      "price": 2452,
+      "stock": 65,
+      "platform": "Family Game",
+      "media": "Cartucho",
+      "image": "https://i.ibb.co/dwJT1fx3/Somari-title-screenshot.png",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Truco (hnos. Arbiser)",
+      "short_title": "Truco",
+      "description": "Videojuego argentino de Truco para PC de los hermanos Arbiser",
+      "price": 5400.23,
+      "stock": 25,
+      "platform": "MS-DOS",
+      "media": "Disquete 5¼",
+      "imagerainbow": "https://i.ibb.co/fd6FpmtG/Portada.png",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Super Menem (Ingrese al Primer Mundo)",
+      "short_title": "Super Menem",
+      "description": "Videojuego de aventura argentino distribuido por una revista de la época",
+      "price": 12000,
+      "stock": 90,
+      "platform": "MS-DOS",
+      "media": "Disquete 5¼",
+      "image": "https://i.ibb.co/gMVCtymZ/hqdefault.jpg",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "Malvinas 2032 - Es hora de recuperar lo nuestro",
+      "short_title": "Malvinas 2032",
+      "description": "Versión original completa en castellano 2.18",
+      "price": 45000,
+      "stock": 27,
+      "platform": "Windows",
+      "media": "CD-ROM",
+      "image": "https://i.ibb.co/27DnPCGw/portadamalvinas.jpg",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "Microsoft Windows 3.1",
+      "short_title": "Windows 3.1",
+      "description": "Cajas en muy buen estado. Un lote de copias directamente importadas desde Estados Unidos.",
+      "price": 30250.7,
+      "stock": 40,
+      "platform": "MS-DOS 6.22",
+      "media": "disquetes de 3½",
+      "image": "photo-1.jpg",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Commander Keen 4 \"Goodbye Galaxy!\"",
+      "short_title": "Commander Keen 4",
+      "description": "Todas con cajas y con manual original en muy buenas condiciones.",
+      "price": 88000,
+      "stock": 5,
+      "platform": "MS-DOS",
+      "media": "disquetes de 3½",
+      "image": "photo-2.png",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Commodore Logo Programming Language",
+      "short_title": "Logo Programming Language",
+      "description": "Cartuchos del lenguaje Logo creado por Seymour Papert para la Commodore Plus/4 en perfecto estado con su caja original.",
+      "price": 56500.25,
+      "stock": 2,
+      "platform": "Commodore Plus/4",
+      "media": "Cartucho",
+      "image": "photo-3.jpg",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "title": "Paint Shop Pro",
+      "short_title": "Paint Shop Pro",
+      "description": "Calidad variable de empaque, pero copias perfectamente funcionales.",
+      "price": 63650.35,
+      "stock": 52,
+      "platform": "Windows 3.1",
+      "media": "disquetes de 3½",
+      "image": "photo-4.jpg",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}
